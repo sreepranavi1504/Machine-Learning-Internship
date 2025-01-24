@@ -1,1 +1,1 @@
-## Machien Learning Internship
+## Machine Learning Internship
